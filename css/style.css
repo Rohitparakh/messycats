@@ -1445,3 +1445,9 @@ input::-webkit-inner-spin-button{
 		left: 5px;
 	}
 }
+
+@media(max-width: 481px){
+	img.question-image{
+		max-height: 240px;
+	}
+}
