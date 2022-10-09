@@ -123,7 +123,7 @@ $(document).ready(function(){
 			$(".finish").removeClass("active");
 		}
 
-		let off = $(".road__content").offset().top;
+		let off = $(".faq__content").offset().top;
 		if(sc - off > -320 && sc - off <= 1500){
 			if($(window).width() <= 768){
 				$(".duo__lapa").css("transform", "translateX(-30%) translateY("+(sc - off + 300)+"px)");
