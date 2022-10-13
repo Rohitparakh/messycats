@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xda1C1134e201fcDc63B9bbEEbEbFe394D179921F",
+  "SCAN_LINK": "https://etherscan.io/address/0xda1C1134e201fcDc63B9bbEEbEbFe394D179921F",
+  "NETWORK": {
+    "NAME": "Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "MESSY CATS",
+  "SYMBOL": "MC",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 15000000000000000,
+  "WL_WEI_COST": 11000000000000000,
+  "DISPLAY_COST": 0.015,
+  "WL_DISPLAY_COST": 0.011,
+  "GAS_LIMIT": 110000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
