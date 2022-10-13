@@ -15,6 +15,6 @@
   "WL_DISPLAY_COST": 0.011,
   "GAS_LIMIT": 110000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/messycatscollection",
   "SHOW_BACKGROUND": true
 }
